@@ -1,0 +1,302 @@
+{
+  "version": "1",
+  "siteName": "Basic Blog Load Test 01 20260603-210448258",
+  "packType": "starter_topical_pack",
+  "homepageRole": "pillar",
+  "mainTopic": "appointment booking funnels",
+  "primaryEntityId": "appointment-booking-funnels",
+  "nodes": [
+    {
+      "nodeId": "homepage",
+      "kind": "page",
+      "pageType": "homepage_pillar",
+      "title": "Appointment Booking Funnels Guide",
+      "slug": "appointment-booking-funnels-guide",
+      "description": "Explain the core principles of appointment booking funnels for owners expanding into new local markets in Barcelona.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels"
+      ],
+      "incomingNodeIds": [
+        "workflow",
+        "best-practices",
+        "faq",
+        "glossary",
+        "checklist",
+        "methodology"
+      ],
+      "outgoingNodeIds": [
+        "workflow",
+        "best-practices",
+        "faq",
+        "glossary",
+        "checklist",
+        "methodology"
+      ]
+    },
+    {
+      "nodeId": "workflow",
+      "kind": "page",
+      "pageType": "supporting_page",
+      "title": "Appointment Booking Funnels Workflow",
+      "slug": "appointment-booking-funnels-workflow",
+      "description": "Show a practical workflow for owners expanding into new local markets adopting appointment booking funnels in Barcelona.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels-workflow"
+      ],
+      "incomingNodeIds": [
+        "homepage",
+        "best-practices"
+      ],
+      "outgoingNodeIds": [
+        "homepage",
+        "best-practices"
+      ]
+    },
+    {
+      "nodeId": "best-practices",
+      "kind": "page",
+      "pageType": "supporting_page",
+      "title": "Appointment Booking Funnels Best Practices",
+      "slug": "appointment-booking-funnels-best-practices",
+      "description": "Document implementation best practices, common mistakes, and success signals for appointment booking funnels.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels-best-practices"
+      ],
+      "incomingNodeIds": [
+        "homepage",
+        "workflow"
+      ],
+      "outgoingNodeIds": [
+        "homepage",
+        "workflow"
+      ]
+    },
+    {
+      "nodeId": "faq",
+      "kind": "page",
+      "pageType": "faq_page",
+      "title": "Appointment Booking Funnels FAQ",
+      "slug": "appointment-booking-funnels-faq",
+      "description": "Answer common questions about appointment booking funnels for owners expanding into new local markets.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels-faq"
+      ],
+      "incomingNodeIds": [
+        "homepage"
+      ],
+      "outgoingNodeIds": [
+        "homepage"
+      ]
+    },
+    {
+      "nodeId": "glossary",
+      "kind": "page",
+      "pageType": "glossary_page",
+      "title": "Appointment Booking Funnels Glossary",
+      "slug": "appointment-booking-funnels-glossary",
+      "description": "Define the core concepts, terms, and entities around appointment booking funnels.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels-glossary"
+      ],
+      "incomingNodeIds": [
+        "homepage"
+      ],
+      "outgoingNodeIds": [
+        "homepage"
+      ]
+    },
+    {
+      "nodeId": "checklist",
+      "kind": "page",
+      "pageType": "checklist_page",
+      "title": "Appointment Booking Funnels Checklist",
+      "slug": "appointment-booking-funnels-checklist",
+      "description": "Provide a practical implementation checklist for appointment booking funnels.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels-checklist"
+      ],
+      "incomingNodeIds": [
+        "homepage"
+      ],
+      "outgoingNodeIds": [
+        "homepage"
+      ]
+    },
+    {
+      "nodeId": "methodology",
+      "kind": "page",
+      "pageType": "methodology_page",
+      "title": "Appointment Booking Funnels Methodology",
+      "slug": "appointment-booking-funnels-methodology",
+      "description": "Explain how Basic Blog Load Test 01 20260603-210448258 evaluates and structures appointment booking funnels.",
+      "required": true,
+      "entityIds": [
+        "appointment-booking-funnels-methodology"
+      ],
+      "incomingNodeIds": [
+        "homepage"
+      ],
+      "outgoingNodeIds": [
+        "homepage"
+      ]
+    },
+    {
+      "nodeId": "basics",
+      "kind": "post",
+      "title": "Appointment Booking Funnels Basics for Interior Design Studios",
+      "slug": "appointment-booking-funnels-basics-interior-design-studios",
+      "description": "Introduce appointment booking funnels in a concise editorial format for owners expanding into new local markets.",
+      "entityIds": [],
+      "incomingNodeIds": [],
+      "outgoingNodeIds": []
+    },
+    {
+      "nodeId": "mistakes",
+      "kind": "post",
+      "title": "Common Appointment Booking Funnels Mistakes for Owners Expanding Into New Local Markets",
+      "slug": "common-appointment-booking-funnels-mistakes",
+      "description": "Turn repeated pitfalls into an actionable checklist for owners expanding into new local markets.",
+      "entityIds": [],
+      "incomingNodeIds": [],
+      "outgoingNodeIds": []
+    },
+    {
+      "nodeId": "launch-checklist",
+      "kind": "post",
+      "title": "Appointment Booking Funnels Launch Checklist",
+      "slug": "appointment-booking-funnels-launch-checklist",
+      "description": "Provide a deployment-ready checklist tied to Basic Blog Load Test 01 20260603-210448258.",
+      "entityIds": [],
+      "incomingNodeIds": [],
+      "outgoingNodeIds": []
+    }
+  ],
+  "entities": [
+    {
+      "entityId": "appointment-booking-funnels",
+      "label": "Appointment Booking Funnels",
+      "entityType": "topic",
+      "slug": "appointment-booking-funnels",
+      "description": "Primary entity for appointment booking funnels.",
+      "sourcePageIds": [
+        "homepage"
+      ]
+    },
+    {
+      "entityId": "appointment-booking-funnels-workflow",
+      "label": "Appointment Booking Funnels Workflow",
+      "entityType": "subtopic",
+      "slug": "appointment-booking-funnels-workflow",
+      "description": "Show a practical workflow for owners expanding into new local markets adopting appointment booking funnels in Barcelona.",
+      "sourcePageIds": [
+        "workflow"
+      ]
+    },
+    {
+      "entityId": "appointment-booking-funnels-best-practices",
+      "label": "Appointment Booking Funnels Best Practices",
+      "entityType": "subtopic",
+      "slug": "appointment-booking-funnels-best-practices",
+      "description": "Document implementation best practices, common mistakes, and success signals for appointment booking funnels.",
+      "sourcePageIds": [
+        "best-practices"
+      ]
+    },
+    {
+      "entityId": "appointment-booking-funnels-faq",
+      "label": "Appointment Booking Funnels FAQ",
+      "entityType": "subtopic",
+      "slug": "appointment-booking-funnels-faq",
+      "description": "Answer common questions about appointment booking funnels for owners expanding into new local markets.",
+      "sourcePageIds": [
+        "faq"
+      ]
+    },
+    {
+      "entityId": "appointment-booking-funnels-glossary",
+      "label": "Appointment Booking Funnels Glossary",
+      "entityType": "term",
+      "slug": "appointment-booking-funnels-glossary",
+      "description": "Define the core concepts, terms, and entities around appointment booking funnels.",
+      "sourcePageIds": [
+        "glossary"
+      ]
+    },
+    {
+      "entityId": "appointment-booking-funnels-checklist",
+      "label": "Appointment Booking Funnels Checklist",
+      "entityType": "subtopic",
+      "slug": "appointment-booking-funnels-checklist",
+      "description": "Provide a practical implementation checklist for appointment booking funnels.",
+      "sourcePageIds": [
+        "checklist"
+      ]
+    },
+    {
+      "entityId": "appointment-booking-funnels-methodology",
+      "label": "Appointment Booking Funnels Methodology",
+      "entityType": "subtopic",
+      "slug": "appointment-booking-funnels-methodology",
+      "description": "Explain how Basic Blog Load Test 01 20260603-210448258 evaluates and structures appointment booking funnels.",
+      "sourcePageIds": [
+        "methodology"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "appointment-booking-funnels-workflow",
+      "to": "appointment-booking-funnels",
+      "relationshipType": "supports",
+      "sourcePageIds": [
+        "workflow"
+      ]
+    },
+    {
+      "from": "appointment-booking-funnels-best-practices",
+      "to": "appointment-booking-funnels",
+      "relationshipType": "supports",
+      "sourcePageIds": [
+        "best-practices"
+      ]
+    },
+    {
+      "from": "appointment-booking-funnels-faq",
+      "to": "appointment-booking-funnels",
+      "relationshipType": "supports",
+      "sourcePageIds": [
+        "faq"
+      ]
+    },
+    {
+      "from": "appointment-booking-funnels-glossary",
+      "to": "appointment-booking-funnels",
+      "relationshipType": "defines",
+      "sourcePageIds": [
+        "glossary"
+      ]
+    },
+    {
+      "from": "appointment-booking-funnels-checklist",
+      "to": "appointment-booking-funnels",
+      "relationshipType": "supports",
+      "sourcePageIds": [
+        "checklist"
+      ]
+    },
+    {
+      "from": "appointment-booking-funnels-methodology",
+      "to": "appointment-booking-funnels",
+      "relationshipType": "supports",
+      "sourcePageIds": [
+        "methodology"
+      ]
+    }
+  ]
+}

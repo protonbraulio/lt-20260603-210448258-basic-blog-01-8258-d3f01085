@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "slug": "appointment-booking-funnels-best-practices",
+  "kind": "page",
+  "title": "Appointment Booking Funnels Best Practices",
+  "alt": "Appointment Booking Funnels Best Practices",
+  "description": "Document implementation best practices, common mistakes, and success signals for appointment booking funnels. Key entities: Appointment Booking Funnels Best Practices.",
+  "fallbackImage": {
+    "format": "svg",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-best-practices.svg",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-best-practices.svg",
+    "width": 1200,
+    "height": 630
+  },
+  "socialImage": {
+    "preferredFormat": "png",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-best-practices.png",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-best-practices.png",
+    "width": 1200,
+    "height": 630,
+    "status": "specified",
+    "xmpSidecarPath": "public/content-pack-images/appointment-booking-funnels-best-practices.png.xmp"
+  },
+  "metadata": {
+    "creator": "Basic Blog Load Test 01 20260603-210448258",
+    "credit": "Basic Blog Load Test 01 20260603-210448258",
+    "copyrightNotice": "Copyright 2026 Basic Blog Load Test 01 20260603-210448258",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "acquisitionUrl": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-best-practices.svg",
+    "aiDisclosure": "Deterministic content-pack image generated from page/post metadata; no provider image model was used."
+  }
+}

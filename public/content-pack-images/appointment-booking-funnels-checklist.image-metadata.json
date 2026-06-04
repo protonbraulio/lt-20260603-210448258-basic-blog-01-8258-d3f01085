@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "slug": "appointment-booking-funnels-checklist",
+  "kind": "page",
+  "title": "Appointment Booking Funnels Checklist",
+  "alt": "Appointment Booking Funnels Checklist",
+  "description": "Provide a practical implementation checklist for appointment booking funnels. Key entities: Appointment Booking Funnels Checklist.",
+  "fallbackImage": {
+    "format": "svg",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-checklist.svg",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-checklist.svg",
+    "width": 1200,
+    "height": 630
+  },
+  "socialImage": {
+    "preferredFormat": "png",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-checklist.png",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-checklist.png",
+    "width": 1200,
+    "height": 630,
+    "status": "specified",
+    "xmpSidecarPath": "public/content-pack-images/appointment-booking-funnels-checklist.png.xmp"
+  },
+  "metadata": {
+    "creator": "Basic Blog Load Test 01 20260603-210448258",
+    "credit": "Basic Blog Load Test 01 20260603-210448258",
+    "copyrightNotice": "Copyright 2026 Basic Blog Load Test 01 20260603-210448258",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "acquisitionUrl": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-checklist.svg",
+    "aiDisclosure": "Deterministic content-pack image generated from page/post metadata; no provider image model was used."
+  }
+}

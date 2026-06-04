@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "slug": "appointment-booking-funnels-glossary",
+  "kind": "page",
+  "title": "Appointment Booking Funnels Glossary",
+  "alt": "Appointment Booking Funnels Glossary",
+  "description": "Define the core concepts, terms, and entities around appointment booking funnels. Key entities: Appointment Booking Funnels Glossary.",
+  "fallbackImage": {
+    "format": "svg",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-glossary.svg",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-glossary.svg",
+    "width": 1200,
+    "height": 630
+  },
+  "socialImage": {
+    "preferredFormat": "png",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-glossary.png",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-glossary.png",
+    "width": 1200,
+    "height": 630,
+    "status": "specified",
+    "xmpSidecarPath": "public/content-pack-images/appointment-booking-funnels-glossary.png.xmp"
+  },
+  "metadata": {
+    "creator": "Basic Blog Load Test 01 20260603-210448258",
+    "credit": "Basic Blog Load Test 01 20260603-210448258",
+    "copyrightNotice": "Copyright 2026 Basic Blog Load Test 01 20260603-210448258",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "acquisitionUrl": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-glossary.svg",
+    "aiDisclosure": "Deterministic content-pack image generated from page/post metadata; no provider image model was used."
+  }
+}

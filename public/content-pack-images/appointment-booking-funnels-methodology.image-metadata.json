@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "slug": "appointment-booking-funnels-methodology",
+  "kind": "page",
+  "title": "Appointment Booking Funnels Methodology",
+  "alt": "Appointment Booking Funnels Methodology",
+  "description": "Explain how Basic Blog Load Test 01 20260603-210448258 evaluates and structures appointment booking funnels. Key entities: Appointment Booking Funnels Methodology.",
+  "fallbackImage": {
+    "format": "svg",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-methodology.svg",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-methodology.svg",
+    "width": 1200,
+    "height": 630
+  },
+  "socialImage": {
+    "preferredFormat": "png",
+    "href": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-methodology.png",
+    "assetPath": "public/content-pack-images/appointment-booking-funnels-methodology.png",
+    "width": 1200,
+    "height": 630,
+    "status": "specified",
+    "xmpSidecarPath": "public/content-pack-images/appointment-booking-funnels-methodology.png.xmp"
+  },
+  "metadata": {
+    "creator": "Basic Blog Load Test 01 20260603-210448258",
+    "credit": "Basic Blog Load Test 01 20260603-210448258",
+    "copyrightNotice": "Copyright 2026 Basic Blog Load Test 01 20260603-210448258",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "acquisitionUrl": "https://protonbraulio.github.io/lt-20260603-210448258-basic-blog-01-8258-d3f01085/content-pack-images/appointment-booking-funnels-methodology.svg",
+    "aiDisclosure": "Deterministic content-pack image generated from page/post metadata; no provider image model was used."
+  }
+}
